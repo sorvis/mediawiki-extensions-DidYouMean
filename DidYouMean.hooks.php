@@ -182,7 +182,7 @@ class DidYouMeanHooks {
 		#	return true;
 		#}
    
-		DidYouMean::doInsert( $title->getArticleId(), $title->getText() );
+		DidYouMean::doInsert( $title->getArticleID(), $title->getText() );
    
 		return true;
 	}
