@@ -219,10 +219,11 @@ $messages['gl'] = array(
 );
 
 /** Swiss German (Alemannisch)
+ * @author Als-Chlämens
  * @author Als-Holder
  */
 $messages['gsw'] = array(
-	'didyoumean-desc' => 'Fiegt in Syte Gleicher yy mit ähnlige Titel',
+	'didyoumean-desc' => 'Fiegt in Syte Links yy mit ähnlige Titel',
 );
 
 /** Manx (Gaelg)
