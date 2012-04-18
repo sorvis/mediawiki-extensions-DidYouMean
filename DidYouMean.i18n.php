@@ -347,6 +347,13 @@ $messages['li'] = array(
 	'didyoumean-desc' => 'Veug verwiezinge toe nao pagina\'s mit "gelieke" name',
 );
 
+/** Lushai (Mizo ţawng)
+ * @author RMizo
+ */
+$messages['lus'] = array(
+	'didyoumean-desc' => 'Thupui "inang deuh" phêkte hlet tarlan telna a ni.',
+);
+
 /** Latvian (Latviešu)
  * @author Xil
  */
