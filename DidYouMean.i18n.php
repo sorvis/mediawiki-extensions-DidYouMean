@@ -595,6 +595,13 @@ $messages['sv'] = array(
 	'didyoumean-desc' => 'Lägger till länkar till sidor med "liknande" titlar',
 );
 
+/** Swahili (Kiswahili)
+ * @author Stephenwanjau
+ */
+$messages['sw'] = array(
+	'didyoumean-desc' => 'Inaongeza viungo kuelekea kwa kurasa zenye vichwa "sawa"',
+);
+
 /** Tulu (ತುಳು)
  * @author VASANTH S.N.
  */
