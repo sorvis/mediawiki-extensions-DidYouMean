@@ -48,7 +48,7 @@ $messages['arz'] = array(
 	'didyoumean-desc' => 'يضيف وصلات إلى صفحات بعناوين "مشابهة"',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -69,7 +69,7 @@ $messages['be-tarask'] = array(
 	'didyoumean-desc' => 'Дадае спасылкі на старонкі з «падобнымі» назвамі',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -90,28 +90,28 @@ $messages['bn'] = array(
 	'didyoumean-desc' => '"একই" রকম শিরোনামের পাতাগুলোর লিঙ্ক যোগ করো',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
 	'didyoumean-desc' => 'Ouzhpennañ a ra liammoù d\'ar pajennoù dezho titloù "damheñvel"',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
 	'didyoumean-desc' => 'Dodaje linkove prema stranicama sa "sličnim" naslovima',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author SMP
  */
 $messages['ca'] = array(
 	'didyoumean-desc' => 'Afegeix enllaços a pàgines amb títols similars',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Danny B.
  */
 $messages['cs'] = array(
@@ -125,7 +125,7 @@ $messages['cy'] = array(
 	'didyoumean-desc' => 'Yn ychwanegu cysylltiadau i dudalennau a theitlau rhywfaint yn debyg ganddynt.',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Byrial
  */
 $messages['da'] = array(
@@ -160,7 +160,7 @@ $messages['eo'] = array(
 	'didyoumean-desc' => 'Aldonu ligilojn al paĝoj kun "similaj" titoloj',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Academo
  * @author Sanbec
  */
@@ -168,14 +168,14 @@ $messages['es'] = array(
 	'didyoumean-desc' => 'Añade enlaces a páginas con títulos «similares»',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Silvar
  */
 $messages['et'] = array(
 	'didyoumean-desc' => 'Lisa lingid lehtedele, mis on "sarnase" pealkirjaga',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Theklan
  */
 $messages['eu'] = array(
@@ -189,7 +189,7 @@ $messages['fa'] = array(
 	'didyoumean-desc' => 'به صفحه‌های با عنوان مشابه، پیوند می‌افزاید.',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Jaakonam
  * @author Nike
  */
@@ -197,7 +197,7 @@ $messages['fi'] = array(
 	'didyoumean-desc' => 'Lisää linkkejä sivuihin, joilla on samankaltainen otsikko.',
 );
 
-/** French (Français)
+/** French (français)
  * @author Grondin
  */
 $messages['fr'] = array(
@@ -254,7 +254,7 @@ $messages['hil'] = array(
 	'didyoumean-desc' => 'Nagadugang sang mga link nga may ara pahina nga "parehas" mga titulo',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author SpeedyGonsales
  */
 $messages['hr'] = array(
@@ -268,7 +268,7 @@ $messages['hsb'] = array(
 	'didyoumean-desc' => 'Přidawa wotkazy stronam z "podobnymi" titulemi',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Dani
  * @author Glanthor Reviol
  */
@@ -276,7 +276,7 @@ $messages['hu'] = array(
 	'didyoumean-desc' => 'Hivatkozások hozzáadása „hasonló” című lapokhoz',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -290,7 +290,7 @@ $messages['id'] = array(
 	'didyoumean-desc' => 'Tambahkan pranala untuk halaman-halaman dengan judul yang "mirip"',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Darth Kule
  */
 $messages['it'] = array(
@@ -354,7 +354,7 @@ $messages['lus'] = array(
 	'didyoumean-desc' => 'Thupui "inang deuh" phêkte hlet tarlan telna a ni.',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author Xil
  */
 $messages['lv'] = array(
@@ -375,7 +375,7 @@ $messages['mg'] = array(
 	'didyoumean-desc' => 'Manampy rohy anaty pejy « mitovy » lohateny',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -452,7 +452,7 @@ $messages['nl'] = array(
 	'didyoumean-desc' => 'Verwijzingen toevoegen naar pagina\'s met "gelijksoortige" namen',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -460,7 +460,7 @@ $messages['nn'] = array(
 	'didyoumean-desc' => 'Legg til lenkjer til sider med liknande titlar',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -474,7 +474,7 @@ $messages['pap'] = array(
 	'didyoumean-desc' => 'Ta añadi lenknan pa páginanan ku un título "similar"',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  * @author Wpedzich
  */
@@ -496,7 +496,7 @@ $messages['ps'] = array(
 	'didyoumean-desc' => 'هغو مخونو ته تړنې ورګډوي چې "ورته" سرليکونه لري',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Malafaya
  */
@@ -504,35 +504,35 @@ $messages['pt'] = array(
 	'didyoumean-desc' => 'Adiciona links a páginas com títulos "semelhantes"',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
 	'didyoumean-desc' => 'Adiciona ligações a páginas com títulos "semelhantes"',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author KlaudiuMihaila
  */
 $messages['ro'] = array(
 	'didyoumean-desc' => 'Adaugă legături la paginile cu titluri "similare"',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
 	'didyoumean-desc' => "Aggiunge le collegaminde a le pàggene cu titele ca s'assomigghiene",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
 	'didyoumean-desc' => 'Добавляет ссылки на страницы с «похожими» названиями',
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Melos
  */
 $messages['scn'] = array(
@@ -546,35 +546,35 @@ $messages['si'] = array(
 	'didyoumean-desc' => 'අනුරූපී මාතෘකා සහිත පිටු සඳහා බන්ධනය කරයි.',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
 	'didyoumean-desc' => 'Pridať odkazy na stránky s „podobnými“ názvami',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
 	'didyoumean-desc' => 'Doda povezave na strani s »podobnimi« naslovi',
 );
 
-/** Albanian (Shqip)
+/** Albanian (shqip)
  * @author Puntori
  */
 $messages['sq'] = array(
 	'didyoumean-desc' => 'Vendosë lidhje në faqet me tituj "të ngjashëm"',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'didyoumean-desc' => 'Додаје линкове ка странама са "сличним" насловима',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -588,7 +588,7 @@ $messages['su'] = array(
 	'didyoumean-desc' => 'Nambahkeun tumbu ka kaca-kaca nu judulna "sawanda"',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author M.M.S.
  */
 $messages['sv'] = array(
@@ -616,21 +616,21 @@ $messages['te'] = array(
 	'didyoumean-desc' => '"ఒకే విధమైన" పేర్లు కలిగిన పేజీలకు లింకులు ఇస్తుంది',
 );
 
-/** Tetum (Tetun)
+/** Tetum (tetun)
  * @author MF-Warburg
  */
 $messages['tet'] = array(
 	'didyoumean-desc' => 'Tau tan ligasaun ba pájina sira-ne\'ebé iha naran "hanesan"',
 );
 
-/** Tajik (Cyrillic script) (Тоҷикӣ)
+/** Tajik (Cyrillic script) (тоҷикӣ)
  * @author Ibrahim
  */
 $messages['tg-cyrl'] = array(
 	'didyoumean-desc' => 'Ба саҳифаҳои бо унвонҳои "монандӣ" пайвандҳо илова кунед',
 );
 
-/** Tajik (Latin script) (Tojikī)
+/** Tajik (Latin script) (tojikī)
  * @author Liangent
  */
 $messages['tg-latn'] = array(
@@ -658,14 +658,14 @@ $messages['tr'] = array(
 	'didyoumean-desc' => 'Sayfalara "benzer" başlıklarda bağlantılar ekler',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Ahonc
  */
 $messages['uk'] = array(
 	'didyoumean-desc' => 'Додає посилання до сторінок зі «схожими» заголовками',
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  */
 $messages['vec'] = array(
@@ -693,14 +693,14 @@ $messages['yi'] = array(
 	'didyoumean-desc' => 'לייגט צו לינקען צו בלעטער מיט "ענלעכע" קעפלעך',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Gzdavidwong
  */
 $messages['zh-hans'] = array(
 	'didyoumean-desc' => '在“近似”标题的页面内加入链接',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Wrightbus
  */
 $messages['zh-hant'] = array(
