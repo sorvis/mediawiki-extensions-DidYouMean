@@ -62,7 +62,7 @@ $messages['bar'] = array(
 	'didyoumean-desc' => 'Eagänzt auf Seitn Links zu ähliche Titl',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -139,7 +139,7 @@ $messages['de'] = array(
 	'didyoumean-desc' => 'Ergänzt Seiten um Links zu ähnlichen Titeln',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -211,7 +211,7 @@ $messages['fy'] = array(
 	'didyoumean-desc' => 'Foegje keppelings ta nei siden mei "lyksoartige nammen" nammen',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -261,7 +261,7 @@ $messages['hr'] = array(
 	'didyoumean-desc' => 'Dodaj poveznice na stranice sa "sličnim" naslovima',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
