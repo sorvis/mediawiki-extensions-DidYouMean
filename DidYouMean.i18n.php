@@ -410,7 +410,7 @@ $messages['my'] = array(
 	'didyoumean-desc' => '"ဆင်တူသော" ခေါင်းစဉ်များရှိသော စာမျက်နှာများသို့သွားသည့် လင့်များ ပေါင်းထည့်ရန်',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -424,9 +424,7 @@ $messages['nah'] = array(
 	'didyoumean-desc' => 'Tiquincēntilīz tzonhuiliztli zāzanilhuīc īca "achi neneuhqui" in ītōca',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
- */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $messages['nb'] = array(
 	'didyoumean-desc' => 'Legger til lenker til sider med lignende titler',
 );
