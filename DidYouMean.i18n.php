@@ -139,6 +139,13 @@ $messages['de'] = array(
 	'didyoumean-desc' => 'Ergänzt Seiten um Links zu ähnlichen Titeln',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'didyoumean-desc' => 'Pelan "manayış" sernaman ra gre dekeno de',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
@@ -440,7 +447,7 @@ $messages['nds'] = array(
  * @author Servien
  */
 $messages['nds-nl'] = array(
-	'didyoumean-desc' => 'Verwiezingen bie pagina\'s zetten mit "soortgelieke" namen',
+	'didyoumean-desc' => 'Verwiezingen bie ziejen zetten mit "soortgelieke" namen',
 );
 
 /** Dutch (Nederlands)
