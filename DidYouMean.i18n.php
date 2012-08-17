@@ -176,10 +176,11 @@ $messages['es'] = array(
 );
 
 /** Estonian (eesti)
+ * @author Pikne
  * @author Silvar
  */
 $messages['et'] = array(
-	'didyoumean-desc' => 'Lisa lingid lehtedele, mis on "sarnase" pealkirjaga',
+	'didyoumean-desc' => 'Lisab lingid lehekülgedele, mis on "sarnase" pealkirjaga.',
 );
 
 /** Basque (euskara)
