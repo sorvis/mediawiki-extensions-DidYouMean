@@ -62,7 +62,7 @@ $messages['bar'] = array(
 	'didyoumean-desc' => 'Eagänzt auf Seitn Links zu ähliche Titl',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  */
 $messages['be-tarask'] = array(
@@ -432,7 +432,7 @@ $messages['nah'] = array(
 	'didyoumean-desc' => 'Tiquincēntilīz tzonhuiliztli zāzanilhuīc īca "achi neneuhqui" in ītōca',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $messages['nb'] = array(
 	'didyoumean-desc' => 'Legger til lenker til sider med lignende titler',
 );
@@ -458,7 +458,7 @@ $messages['nl'] = array(
 	'didyoumean-desc' => 'Verwijzingen toevoegen naar pagina\'s met "gelijksoortige" namen',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -573,14 +573,14 @@ $messages['sq'] = array(
 	'didyoumean-desc' => 'Vendosë lidhje në faqet me tituj "të ngjashëm"',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
 	'didyoumean-desc' => 'Додаје линкове ка странама са "сличним" насловима',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -699,14 +699,14 @@ $messages['yi'] = array(
 	'didyoumean-desc' => 'לייגט צו לינקען צו בלעטער מיט "ענלעכע" קעפלעך',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Gzdavidwong
  */
 $messages['zh-hans'] = array(
 	'didyoumean-desc' => '在“近似”标题的页面内加入链接',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Wrightbus
  */
 $messages['zh-hant'] = array(
