@@ -355,7 +355,7 @@ $messages['li'] = array(
 	'didyoumean-desc' => 'Veug verwiezinge toe nao pagina\'s mit "gelieke" name',
 );
 
-/** Lushai (Mizo ţawng)
+/** Mizo (Mizo ţawng)
  * @author RMizo
  */
 $messages['lus'] = array(
@@ -432,7 +432,8 @@ $messages['nah'] = array(
 	'didyoumean-desc' => 'Tiquincēntilīz tzonhuiliztli zāzanilhuīc īca "achi neneuhqui" in ītōca',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎) */
+/** Norwegian Bokmål (norsk (bokmål)‎)
+ */
 $messages['nb'] = array(
 	'didyoumean-desc' => 'Legger til lenker til sider med lignende titler',
 );
@@ -712,4 +713,3 @@ $messages['zh-hans'] = array(
 $messages['zh-hant'] = array(
 	'didyoumean-desc' => '在「近似」標題的頁面內加入連結',
 );
-
