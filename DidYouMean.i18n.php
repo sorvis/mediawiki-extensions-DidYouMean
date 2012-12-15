@@ -55,6 +55,13 @@ $messages['ast'] = array(
 	'didyoumean-desc' => 'Amiesta enllaces a paxines con títulos «asemeyaos»',
 );
 
+/** South Azerbaijani (تورکجه)
+ * @author Mousa
+ */
+$messages['azb'] = array(
+	'didyoumean-desc' => 'بنزر باشلیقلاری اولان صحیفه‌لره باغلانتی آرتیرار',
+);
+
 /** Bavarian (Boarisch)
  * @author Man77
  */
