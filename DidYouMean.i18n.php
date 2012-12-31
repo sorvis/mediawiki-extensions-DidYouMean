@@ -463,7 +463,7 @@ $messages['nds-nl'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
-	'didyoumean-desc' => 'Verwijzingen toevoegen naar pagina\'s met "gelijksoortige" namen',
+	'didyoumean-desc' => 'Koppelingen toevoegen naar pagina\'s met "gelijksoortige" namen',
 );
 
 /** Norwegian Nynorsk (norsk (nynorsk)‎)
