@@ -452,7 +452,7 @@ $messages['nds'] = array(
 	'didyoumean-desc' => 'Föögt Lenken to Sieden mit ähnliche Titels to',
 );
 
-/** Nedersaksisch (Nedersaksisch)
+/** Nedersaksies (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
