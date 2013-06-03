@@ -439,7 +439,7 @@ $messages['nah'] = array(
 	'didyoumean-desc' => 'Tiquincēntilīz tzonhuiliztli zāzanilhuīc īca "achi neneuhqui" in ītōca',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  */
 $messages['nb'] = array(
 	'didyoumean-desc' => 'Legger til lenker til sider med lignende titler',
@@ -452,7 +452,7 @@ $messages['nds'] = array(
 	'didyoumean-desc' => 'Föögt Lenken to Sieden mit ähnliche Titels to',
 );
 
-/** Nedersaksies (Nedersaksies)
+/** Low Saxon (Netherlands) (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
@@ -466,7 +466,7 @@ $messages['nl'] = array(
 	'didyoumean-desc' => 'Koppelingen toevoegen naar pagina\'s met "gelijksoortige" namen',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Harald Khan
  * @author Njardarlogar
  */
