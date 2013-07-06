@@ -481,6 +481,13 @@ $messages['oc'] = array(
 	'didyoumean-desc' => 'Apond de ligams a las paginas amb de títols « semblables »',
 );
 
+/** Punjabi (ਪੰਜਾਬੀ)
+ * @author Babanwalia
+ */
+$messages['pa'] = array(
+	'didyoumean-desc' => "''ਮਿਲਦੇ-ਜੁਲਦੇ'' ਸਿਰਲੇਖਾਂ ਵਾਲੇ ਸਫ਼ਿਆਂ ਵਿਚ ਕੜੀਆਂ ਜੋੜੋ",
+);
+
 /** Papiamento (Papiamentu)
  * @author Sdm1985
  */
