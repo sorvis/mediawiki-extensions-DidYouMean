@@ -514,7 +514,7 @@ $messages['pms'] = array(
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
 $messages['ps'] = array(
-	'didyoumean-desc' => 'هغو مخونو ته تړنې ورګډوي چې "ورته" سرليکونه لري',
+	'didyoumean-desc' => 'هغو مخونو ته تړنې ورگډوي چې "ورته" سرليکونه لري',
 );
 
 /** Portuguese (português)
