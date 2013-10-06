@@ -118,6 +118,13 @@ $messages['ca'] = array(
 	'didyoumean-desc' => 'Afegeix enllaços a pàgines amb títols similars',
 );
 
+/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄)
+ * @author Yejianfei
+ */
+$messages['cdo'] = array(
+	'didyoumean-desc' => '添加頁面其鏈接遘「接近」其標題',
+);
+
 /** Czech (česky)
  * @author Danny B.
  */
