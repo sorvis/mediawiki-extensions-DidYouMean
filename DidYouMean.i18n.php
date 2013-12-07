@@ -125,7 +125,7 @@ $messages['cdo'] = array(
 	'didyoumean-desc' => '添加頁面其鏈接遘「接近」其標題',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Danny B.
  */
 $messages['cs'] = array(
