@@ -357,9 +357,10 @@ $messages['ksh'] = array(
 
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
+ * @author Soued031
  */
 $messages['lb'] = array(
-	'didyoumean-desc' => 'Setzt Linken op Säite mat "ähnlechen" Titelen derbäi',
+	'didyoumean-desc' => 'Setzt Linken op Säite mat "ähnlechen" Titelen dobäi',
 );
 
 /** Limburgish (Limburgs)
