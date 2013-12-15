@@ -360,7 +360,7 @@ $messages['ksh'] = array(
  * @author Soued031
  */
 $messages['lb'] = array(
-	'didyoumean-desc' => 'Setzt Linken op Säite mat "ähnlechen" Titelen dobäi',
+	'didyoumean-desc' => 'Setzt Linken op Säite mat "ähnlechen" Titelen derbäi',
 );
 
 /** Limburgish (Limburgs)
