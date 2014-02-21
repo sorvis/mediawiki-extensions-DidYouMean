@@ -568,6 +568,13 @@ $messages['scn'] = array(
 	'didyoumean-desc' => 'Iunci liami a pàggini cu tituli "simili"',
 );
 
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'didyoumean-desc' => 'Adds links til pages wi "similar" titles',
+);
+
 /** Sinhala (සිංහල)
  * @author තඹරු විජේසේකර
  */
