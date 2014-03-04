@@ -572,7 +572,7 @@ $messages['scn'] = array(
  * @author John Reid
  */
 $messages['sco'] = array(
-	'didyoumean-desc' => 'Adds links til pages wi "similar" titles',
+	'didyoumean-desc' => 'Adds links til pages wi "siclike" titles',
 );
 
 /** Sinhala (සිංහල)
