@@ -255,6 +255,13 @@ $messages['gv'] = array(
 	'didyoumean-desc' => 'Cur kianglaghyn da duillagyn lesh enmyssyn "cosoylagh"',
 );
 
+/** Hawaiian (Hawai`i)
+ * @author Kolonahe
+ */
+$messages['haw'] = array(
+	'didyoumean-desc' => 'Hoʻohui i nā loulou i nā ʻaoʻao me nā poʻo inoa "like"',
+);
+
 /** Hebrew (עברית)
  * @author Rotemliss
  */
