@@ -14,6 +14,7 @@ $wgExtensionCredits['other'][] = array(
 	'descriptionmsg' => 'didyoumean-desc',
 );
 $dir = dirname(__FILE__) . '/';
+$wgMessagesDirs['DidYouMean'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['DidYouMean'] =  $dir . 'DidYouMean.i18n.php';
 $wgAutoloadClasses['DidYouMeanHooks'] = $dir . 'DidYouMean.hooks.php';
 $wgAutoloadClasses['DidYouMean'] = $dir . 'DidYouMean_body.php';
