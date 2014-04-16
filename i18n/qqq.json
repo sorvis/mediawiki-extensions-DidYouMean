@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Raimond Spekking",
-            "Raymond"
-        ]
-    },
-    "didyoumean-desc": "Extension description displayed on [[Special:Version]]."
+	"@metadata": {
+		"authors": [
+			"Raimond Spekking",
+			"Raymond"
+		]
+	},
+	"didyoumean-desc": "Extension description displayed on [[Special:Version]]."
 }

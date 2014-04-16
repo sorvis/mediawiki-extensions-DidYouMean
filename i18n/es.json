@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Academo",
-            "Sanbec"
-        ]
-    },
-    "didyoumean-desc": "Añade enlaces a páginas con títulos «similares»"
+	"@metadata": {
+		"authors": [
+			"Academo",
+			"Sanbec"
+		]
+	},
+	"didyoumean-desc": "Añade enlaces a páginas con títulos «similares»"
 }

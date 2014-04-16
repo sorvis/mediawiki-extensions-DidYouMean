@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "CERminator"
-        ]
-    },
-    "didyoumean-desc": "Dodaje linkove prema stranicama sa \"sličnim\" naslovima"
+	"@metadata": {
+		"authors": [
+			"CERminator"
+		]
+	},
+	"didyoumean-desc": "Dodaje linkove prema stranicama sa \"sličnim\" naslovima"
 }
