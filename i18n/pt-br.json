@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eduardo.mps"
+			"Eduardo.mps",
+			"Dianakc"
 		]
 	},
-	"didyoumean-desc": "Adiciona ligações a páginas com títulos \"semelhantes\""
+	"didyoumean-desc": "Adiciona links às páginas com títulos \"semelhantes\""
 }
