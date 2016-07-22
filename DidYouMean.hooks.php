@@ -108,7 +108,7 @@ class DidYouMeanHooks {
 		return true;
 	}
 	
-	public static function titleMoveComplete( &$title, &$nt, &$wgUser, &$pageid, &$redirid ) {
+	public static function titleMoveComplete( &$title, &$nt, &$wgUser, $pageid, $redirid ) {
 		$oldtitletext = $title->getText();
 		$oldns = $title->getNamespace();
 		$newtitletext = $nt->getText();
